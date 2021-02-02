@@ -35,6 +35,7 @@ With this plugin, you can display the following information:
 
 Format strings can be edited to show as much informaion as the user wants.
 Terminal and Tmux theme shown here is [Lighthaus](https://github.com/lighthaus-theme)
+
 _Tmux Lighthaus theme coming soon_
 
 #### Requirements
